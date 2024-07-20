@@ -13,3 +13,4 @@ public class SumOfInputs {
         System.out.println(sum);
     }
 }
+//solution is not right
