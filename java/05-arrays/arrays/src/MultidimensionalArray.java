@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class MultidimentionalArray {
+public class MultidimensionalArray {
     public static void main(String[] args) {
         int[][] arr2D = {
                 {1, 2, 3},
