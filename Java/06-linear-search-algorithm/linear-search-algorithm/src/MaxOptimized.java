@@ -10,7 +10,7 @@ public class MaxOptimized {
         int ans = max(arr);
         System.out.println(ans);
     }
-        static int max(int[][] arr) {
+    static int max(int[][] arr) {
         if (arr.length == 0) {
             return -1;
         }
